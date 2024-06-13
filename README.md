@@ -1,2 +1,2 @@
-# Eric-A.-Resume-Page
+# Eric-A.-Resume-Pages
 Resume: Projects
